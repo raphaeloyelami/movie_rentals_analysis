@@ -11,7 +11,7 @@
 - [Medium Article](#medium-article)
 
 ## Overview
-
+You and your business partner are considering selling your Movie Rental Business to a local restaurant and bar owner who has shown interest in the acquisition. To make an informed decision and address the potential acquirer’s inquiries, you plan to use SQL queries to extract and analyze data from the Movies Database. Each question posed by the potential buyer will involve writing complex SQL queries that combine data from multiple tables to provide insightful answers about your rental business and the industry as a whole. This data-driven approach will help you evaluate the offer and provide comprehensive information to the interested buyer.
 
 
 ---
@@ -24,7 +24,7 @@ Project Questions: [PDF Document](https://drive.google.com/file/d/14BtZpqBt4WQNn
 Dataset structure: The Movie Rental database consists of 19 tables ('actor','actor_award','address','advisor','category','city','country','customer','film','film_actor','film_category','film_text','inventory','investor','language','payment','rental','staff','store')
 
 ---
-## Business Case Study Questions and Answers
+## Case Study Questions and Answers
 
 - [Solution]()
 
