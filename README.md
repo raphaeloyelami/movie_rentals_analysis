@@ -7,7 +7,7 @@
 ## 🧾 Table of Contents
 - [Overview](#overview)
 - [Available Data](#available-data)
-- [Business Case Study Questions and Answers](#business-case-study-questions-and-answers)
+- [Case Study Questions and Answers](#case study questions and answers)
 - [Medium Article](#medium-article)
 
 ## Overview
