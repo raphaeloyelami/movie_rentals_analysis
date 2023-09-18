@@ -26,7 +26,7 @@ Dataset structure: The Movie Rental database consists of 19 tables ('actor','act
 ---
 ## Case Study Questions and Answers
 
-- [Solution]()
+- [Solution](https://github.com/raphaeloyelami/movie_rentals_analysis/blob/main/Case%20Study%20Answers.md)
 
 
 ---
