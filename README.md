@@ -21,7 +21,7 @@ Dataset: [Movie Rental Data](https://drive.google.com/drive/folders/1mkiTsajRkpt
 
 Project Questions: [PDF Document](https://drive.google.com/file/d/14BtZpqBt4WQNnQ9wyrCamgdOK2AOb-yt/view?usp=sharing)
 
-Dataset structure: The Movie Rental database consists of 19 tables ('actor','actor_award','address','advisor','category','city','country','customer','film','film_actor','film_category','film_text','inventory','investor','language','payment','rental','staff','store')
+Dataset structure: The Movie Rental database consists of 19 tables (`actor`,`actor_award`,`address`,`advisor`,`category`,`city`,`country`,`customer`,`film`,`film_actor`,`film_category`,`film_text`,`inventory`,`investor`,`language`,`payment`,`rental`,`staff`,`store`)
 
 ---
 ## Case Study Questions and Answers
